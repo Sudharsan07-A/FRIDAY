@@ -1,0 +1,43 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+secrets.properties
+api_keys.properties
+
+# Generated files
+.classpath
+.project
+.settings/
+*.class
+*.log
+
+# Kotlin/Java
+out/
+*.jar
+*.zip
+*.tar.gz
+
+# Gradle wrapper
+gradlew
+gradlew.bat
+gradle/
